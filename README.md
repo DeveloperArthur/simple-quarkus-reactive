@@ -1,0 +1,1 @@
+Projeto utilizando Quarkus Reativo para requisições não bloqueantes
